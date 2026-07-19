@@ -1,0 +1,2 @@
+# ATALAS
+ATLAS - ATLAS — A decentralized swarm that turns idle device memory and compute into the world's largest people-powered data & compute network. Simple Node.js nodes + premium ATLAS Memory Sticks create a self-healing Digital Memory Pool. Users earn by contributing resources. Built for true collective infrastructure — low power, high resilience, and real wealth distribution. Hardware + software. Earn while you sleep. #depin #distributed-systems #memory-pool #p2p
