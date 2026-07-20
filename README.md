@@ -1,3 +1,4 @@
+# ATLAS
 ATLAS is a decentralized swarm that turns idle memory, storage, and compute from everyday devices into the world's largest, cheapest, people-powered data and compute infrastructure.
 It is collective power distribution for data — not just storage, but a self-healing, intelligent Digital Memory Pool (DMP) where participants earn real money.
 The bigger/better your contribution (especially stable hardware), the more you earn. It is designed for true decentralization: every node follows the same rules, with no single point of failure or control.
